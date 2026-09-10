@@ -1,0 +1,14 @@
+D:\corsess\ReverseString\bin\Debug\net8.0\ReverseString.exe
+D:\corsess\ReverseString\bin\Debug\net8.0\ReverseString.deps.json
+D:\corsess\ReverseString\bin\Debug\net8.0\ReverseString.runtimeconfig.json
+D:\corsess\ReverseString\bin\Debug\net8.0\ReverseString.dll
+D:\corsess\ReverseString\bin\Debug\net8.0\ReverseString.pdb
+D:\corsess\ReverseString\obj\Debug\net8.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\corsess\ReverseString\obj\Debug\net8.0\ReverseString.AssemblyInfoInputs.cache
+D:\corsess\ReverseString\obj\Debug\net8.0\ReverseString.AssemblyInfo.cs
+D:\corsess\ReverseString\obj\Debug\net8.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\corsess\ReverseString\obj\Debug\net8.0\ReverseString.dll
+D:\corsess\ReverseString\obj\Debug\net8.0\refint\ReverseString.dll
+D:\corsess\ReverseString\obj\Debug\net8.0\ReverseString.pdb
+D:\corsess\ReverseString\obj\Debug\net8.0\ReverseString.genruntimeconfig.cache
+D:\corsess\ReverseString\obj\Debug\net8.0\ref\ReverseString.dll
